@@ -1,5 +1,5 @@
-# Visualisation projects
-This repository containts links to my Tableau visualizations and projects
+# Data vis projects
+This repository containts links to my visualization projects
 <!--
 
 <img src="https://github.com/sukhinsergey/tableau/assets/61851042/28117097-18c1-4e44-b607-f6c2e3de1b82" width="150" /> 
